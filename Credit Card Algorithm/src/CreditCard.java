@@ -20,6 +20,7 @@ public class CreditCard {
 				
 				checkValid();
 		}
+		//something
 		//print out
 		System.out.println("You have " + counter + " valid credit cards.");
 	}
